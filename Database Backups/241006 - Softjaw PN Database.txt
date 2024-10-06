@@ -1,0 +1,202 @@
+110	0003	Nut LCK 10-32 X Alloy Steel	McMaster	90631A411	3.66	100	110-0003 Nut LCK 10-32 X Alloy Steel
+110	0001	Nut Tee M5 X Alloy Steel	OpenBuilds	8.19368E+11	2.99	10	110-0001 Nut Tee M5 X Alloy Steel
+110	0002	Nut LCK .375-16 X Alloy Steel	McMaster	90630A121	3.2	20	110-0002 Nut LCK .375-16 Alloy Steel
+111	0001	Screw SHCS .25-20 X 0.75 Alloy Steel					111-0001 Screw SHCS .25-20 X 0.75 Alloy Steel
+111	0002	Screw LP M5 X 20mm Alloy Steel					111-0002 Screw LP M5 X 20mm Alloy Steel
+111	0003	Screw SHCS M4 X 30mm Black Oxide	McMaster	91290A180	7.79	50	111-0003 Screw SHCS M4 X 30mm Black Oxide
+111	0004	Screw SHCS M5 X 10mm Alloy Steel	McMaster	91274A126	4.31	50	111-0004 Screw  SHCS M5 X 10mm Alloy Steel
+111	0005	Screw SHCS M4 X 20mm Alloy Steel	McMaster	91274A121	5.33	50	111-0005 Screw SHCS M4 X 20mm Alloy Steel
+111	0006	Screw SHCS M4 X 25mm Alloy Steel	McMaster	91274A122	2.87	25	111-0006 Screw SHCS M4 X 25mm Alloy Steel
+111	0007	Screw SHCS .375-16 X 1 Black Oxide	McMaster	91251A624	9.36	25	111-0007 Screw SHCS .375-16 X 1 Black Oxide
+111	0008	Screw SHCS .375-16 X 1.25 Black Oxide	McMaster	91251A626	10.07	25	111-0008 Screw SHCS .375-16 X 1.25 Black Oxide
+111	0009	Screw SHCS .375-16 X 1.5 Black Oxide	McMaster	91251A628	10.77	25	111-0009 Screw SHCS .375-16 X 1.5 Black Oxide
+111	0010	Screw SHCS M5 X 8mm Alloy Steel	McMaster	91274A125	6.25	50	111-0010 Screw SHCS M5 X 8mm Alloy Steel
+111	0011	Screw SHCS .5-13 X 1.25 Alloy Steel	McMaster	91274A448	9.98	10	111-0011 Screw SHCS .5-13 X 1.25 Alloy Steel
+111	0012	Screw SHCS M4 X 10mm Alloy Steel	McMaster	91274A117	4.51	50	111-0012 Screw SHCS M4 X 10mm Alloy Steel
+111	0013	Screw SHCS M5 X 18mm Black Oxide	McMaster	91290A238	*	*	111-0013 Screw SHCS M5 X 18mm Black Oxide
+111	0014	Screw SHCS M5 X 14mm Black Oxide	McMaster	91290A230	*	*	111-0014 Screw SHCS M5 X 14mm Black Oxide
+111	0015	Screw SHCS M5 X 12mm Black Oxide	McMaster	91290A228	*	*	111-0015 Screw SHCS M5 X 12mm Black Oxide
+111	0016	Screw SHCS M5 X 16mm Black Oxide	McMaster	91290A232	*	*	111-0016 Screw SHCS M5 X 16mm Black Oxide
+111	0017	Screw SHCS M5 X 10mm Alloy Steel	McMaster	*	*	*	111-0017 Screw SHCS M5 X 10mm Alloy Steel
+111	0018	Screw SHCS M5 X 25mm Alloy Steel	McMaster	*	*	*	111-0018 Screw SHCS M5 X 25mm Alloy Steel
+111	0019	Screw SHCS 6-32 X 0.5 Black Oxide	McMaster	91251A148	9.88	100	111-0019 Screw SHCS 6-32 X 0.5 Black Oxide
+111	0020	Screw SHCS 10-32 X 0.75 Black Oxide	McMaster	91251A345	12.66	100	111-0020 Screw SHCS 10-32 X 0.75 Black Oxide
+111	0021	Screw SHCS M3 X 8mm Black Oxide	*	*	*	*	111-0021 Screw SHCS M3 X 8mm Black Oxide
+112	0001	Washer 0.2 ID X .334OD X .047 - 316SS	McMaster	92147A430	3.19	100	112-0001 Washer 0.2 ID X .334OD X .047 - 316SS
+115	0001	Router Spindle Mount - Open Builds	*	*	*	*	115-0001 -  Router Spindle Mount - Open Builds
+115	0002	V-Slot 20x60x600 Linear Rail - Open Builds	*	*	*	*	115-0002 -  V-Slot 20x60x600 Linear Rail - Open Builds
+115	0003	C-Beam 40x80x500 Linear Rail - Open Builds	*	*	*	*	115-0003 -  C-Beam 40x80x500 Linear Rail - Open Builds
+115	0004	C-Beam 40x80x1000 Linear Rail - Open Builds	*	*	*	*	115-0004 -  C-Beam 40x80x1000 Linear Rail - Open Builds
+115	0005	8mm leadscrew 1040mm - Open Builds	*	*	*	*	115-0005 -  8mm leadscrew 1040mm - Open Builds
+115	0006	V-Slot 20x60x1000 Linear Rail - Open Builds	*	*	*	*	115-0006 -  V-Slot 20x60x1000 Linear Rail - Open Builds
+115	0007	C-Beam 40x80x250 Linear Rail - Open Builds	*	*	*	*	115-0007 -  C-Beam 40x80x250 Linear Rail - Open Builds
+115	0008	8mm leadscrew 290mm - Open Builds	*	*	*	*	115-0008 -  8mm leadscrew 290mm - Open Builds
+115	0009	V-Slot 20x80x500 Linear Rail - Open Builds	*	*	*	*	115-0009 -  V-Slot 20x80x500 Linear Rail - Open Builds
+115	0015	Gecko G540 Drive	*	*	*	*	115-0015 Gecko G540 Drive
+115	0010	Tormach 770 6061 Aluminum Fixture Tooling Plate	Saunders Machine Works	*	299	1	115-0010 Tormach 770 6061 Aluminum Fixture Tooling Plate
+115	0011	Hiwin Linear Shuttle - HGH20CA	Hiwin	HGH20CA	*	1	115-0011 Hiwin Linear Shuttle - HGH20CA
+115	0012	Hiwin Linear Rail 1000 - HGH20CA	Hiwin	HGH20CA	*	1	115-0012 Hiwin Linear Rail 1000 - HGH20CA
+115	0013	Hiwin Linear Rail 200 - HGH20CA	Hiwin	*	*	*	115-0013 Hiwin Linear Rail 200 - HGH20CA
+115	0014	VF 220V - 2.2kV - HY02D223B	*	HY02D223B	*	*	115-0014 VF 220V - 2.2kV - HY02D223B
+115	0016	Hiwin Linear Rail 500 - HGH20CA	Amazon	*	*	*	115-0016 Hiwin Linear Rail 500 - HGH20CA
+119	0001	Drylint Shuttle 25mm - Igus	Igus	TW_01_25	45.65	1	119-0001 Drylint Shuttle 25mm - Igus
+119	0002	Drylint Rail 25mmx1000mm - Igus	Igus	TS-01-25	82.75	1	119-0002 Drylint Rail 25mmx1000mm - Igus
+119	0003	Double Wide Gantry Plate - Open Builds	OpenBuilds	2026	13.99	1	119-0003 Double Wide Gantry Plate - Open Builds
+119	0004	C-Beam End Mount	OpenBuilds	*	*	*	119-0004 C-Beam End Mount
+119	0005	500mm Ballscrew Assy - SFU1204 500mm with BK10/BF10	*	*	*	*	119-0005 500mm Ballscrew Assy - SFU1204 500mm with BK10/BF10
+139	0001	Power Supply 24V - SE-350-24	Mean Well	SE-350-24	*	*	139-0001 Power Supply 24V - SE-350-24
+139	0002	"220 Receptable - Nema L14-20, Turn Lock Panel Mount"	McMaster	7164K81	39.44	1	"139-0002 220 Receptable - Nema L14-20, Turn Lock Panel Mount"
+139	0003	Plastic Cable Management Rack	*	*	*	*	139-0003 Plastic Cable Management Rack
+139	0004	Aviation Plug - Female - 2 Pin	*	*	*	*	139-0004 Aviation Plug - Female - 2 Pin
+139	0005	"DIN Rail, 35mm"	*	*	*	*	"139-0005 DIN Rail, 35mm"
+140	0001	Mitee bite Vise Fixed	*	*	*	*	140-0001 Mitee bite Vise Fixed
+140	0002	Mitee bite Vise Adj	*	*	*	*	140-0002 Mitee bite Vise Adj
+190	0001	Dewalt Router DWP611	*	*	*	*	190-0001 -  Dewalt Router DWP611
+210	0001-01	Spindle Extension Plate - WaughBot Assy	*	*	*	*	210-0001-01A Spindle Extension Plate - WaughBot Assy
+210	0002-01A	X Linear Rail Support Plate - SoftJaw CNC Assy	*	*	*	*	210-0002-01A X Linear Rail Support Plate - SoftJaw CNC Assy
+210	0003-01A	X Linear Shuttle Adapter Plate - SoftJaw CNC Assy	*	*	*	*	210-0003-01A X Linear Shuttle Adapter Plate - SoftJaw CNC Assy
+210	0004-01A	Tormach Fixture Center Adapter Plate - SoftJaw CNC Assy	*	*	*	*	210-0004-01A Tormach Tooling Plate  Center Adapter - SoftJaw CNC Assy
+210	0005-01A	Tormach Fixture Side Adapter Plate - SoftJaw CNC Assy	*	*	*	*	210-0005-01A Tormach Fixture Side Adapter Plate - SoftJaw CNC Assy
+210	0006-01A	X Rail Spacer - SJ Bot Assy	*	*	*	*	210-0006-01A X Rail Spacer - SJ Bot Assy
+210	0007-01A	250mm Rail Spacer - Softjaw CNC	*	*	*	*	210-0007-01A 250mm Rail Spacer - Softjaw CNC
+210	0008-01A	Back Plate - CNC Electronics Enclosure	*	*	*	*	210-0008-01A Back Plate - CNC Electronics Enclosure
+210	0009-01A	IO Plate - CNC Electronics Assy	*	*	*	*	210-0009-01A IO Plate - CNC Electronics Assy
+210	0010-01A	Y Axis Base Plate - SoftJaw CNC 	*	*	*	*	210-0010-01A Y Axis Base Plate - SoftJaw CNC 
+211	0001-01	Bici Blackjack - For Diego	*	*	*	*	211-0001-01A Bici BlackJack - For Diego
+213	0002-01	Pan Scrapper	*	*	*	*	213-0002-01 Pan Scrapper
+213	0003-01	Noni Ice Cube	*	*	*	*	213-0003-01A Noni Ice Cube
+214	0001-01	Power Supply Cable Through Guide - Prusa Lack Table Enclosure	*	*	*	*	214-0001-01A - Power Supply Cable Through Guide - Prusa Lack Table Enclosure
+214	0002-01	Gate - Printed Carabiner	*	*	*	*	214-0002-01A Gate - Printed Carabiner
+214	0002-02	Spine - Printed Carabiner	*	*	*	*	214-0002-02A Spine - Printed Carabiner
+214	0003-01	Screw Tray	*	*	*	*	214-0003-01A Screw Tray
+214	0004-01A	Limit Switch Holder	*	*	*	*	214-0004-01A Limit Switch Holder
+214	0005-01A	Link - Cable Chain	*	*	*	*	214-0005-01A Link - Cable Chain
+214	0005-02A	Fixed Bracket - Cable Chain	*	*	*	*	214-0005-02A Fixed Bracket - Cable Chain
+214	0005-03A	Floating Bracket - Cable Chain	*	*	*	*	214-0005-03A Floating Bracket - Cable Chain
+214	0006-01A	MK3S Fan Shroud	*	*	*	*	214-0006-01A MK3S Fan Shroud
+214	0007-01A	"Ground Stake 10.5in Hose, Short - Sprinkler Adapter"	*	*	*	*	"214-0007-01A Ground Stake 10.5in Hose, Short - Sprinkler Adapter"
+214	0007-02A	"Ground Stake .3in Hose, Short - Sprinkler Adapter"	*	*	*	*	"214-0007-02A Ground Stake .3in Hose, Short - Sprinkler Adapter"
+214	0008-01A	Bedroom Window Blinds Holder	*	*	*	*	214-0008-01A Bedroom Window Blinds Holder
+214	0009-01A	Rond de Serviette	*	*	*	*	214-0009-01A Rond de Serviette
+214	0010-01A	Spice Rack	*	*	*	*	214-0010-01A Spice Rack
+214	0011-01A	2.5in Outlet to 1.25in Hose Adapter - For Shop Vac	*	*	*	*	214-0011-01A 2.5in Outlet to 1.25in Hose Adapter - For Shop Vac
+214	0011-02A	1.25in Hose to Bucket Adapter - For Shop Vac	*	*	*	*	214-0011-02A 1.25in Hose to Bucket Adapter - For Shop Vac
+214	0011-03A	Alcohol Bucket Threads to 1.25 Hose Adapter - For Shop Vac	*	*	*	*	214-0011-03A Alcohol Bucket Threads to 1.25 Hose Adapter - For Shop Vac
+214	0011-04A	1.375in Outlet to 1.25 Hose Adapter - For Shop Vac (Miter Saw)	*	*	*	*	214-0011-04A 45mm Outlet to 1.25 Hose Adapter
+214	0011-05A	45mm to 1.25 Hose Adapter - For Shop Vac	*	*	*	*	214-0011-05A 45mm to 1.25 Hose Adapter - For Shop Vac
+214	0011-06A	1.875 to 1.25 Hose Adapter - For Shop Vac (Belt Sander)	*	*	*	*	214-0011-06A 1.875 to 1.25 Hose Adapter - For Shop Vac (Belt Sander)
+214	0012-01A	Magnetic Touch Probe Clamp 	*	*	*	*	214-0012-01A Magnetic Touch Probe Clamp 
+214	0013-01A	Fixture Plate Plug	*	*	*	*	214-0013-01A Fixture Plate Plug
+214	0014-01A	Dadot Centering Jig - .875in Diameter	*	*	*	*	214-0014-01A Dadot Centering Jig - .875in Diameter
+214	0015-01A	Guitar Case Handle	*	*	*	*	214-0015-01A Guitar Case Handle
+214	0016-01A	Tektronix Power Button	*	*	*	*	214-0016-01A Tektronix Power Button
+214	0017-01A	Air Hose Bracket	*	*	*	*	214-0017-01A Air Hose Bracket
+214	0018-01A	Limit Switch Bracket	*	*	*	*	214-0018-01A Limit Switch Bracket
+214	0019-01A	Hiwin HGH20CA Carriage Spacer - Softjaw CNC Assy	*	*	*	*	214-0019-01A Hiwin HGH20CA Carriage Spacer - Softjaw CNC Assy
+215	0001-01A	Top Head - Os Camper Bed Assy	*	*	*	*	215-0001-01A Top Head - Os Camper Bed Assy
+215	0001-02A	Top Feet - Os Camper Bed Assy	*	*	*	*	215-0001-02A Top Feet - Os Camper Bed Assy
+219	0001-01	BlackJack Packaging - for 211-0001-01	*	*	*	*	219-0001-01A BlackJack Packaging - for 211-0001-01
+219	0002-01A	Mucho Wheelcover	*	*	*	*	219-0002-01A Mucho Wheelcover
+219	0003-01A	Dado Guide 3/4in wide with 5/8in bit - Use with 7/16 brass bushing	*	*	*	*	219-0003-01A Dado Guide 3/4in wide with 5/8in bit - Use with 7/16 brass bushing
+450	0001-01A	Bici BlackJack Assy	*	*	*	*	450-0001-01A Bici BlackJack Assy
+450	0002-01A	Os Camper Bed - Subaru Cross Track 2019	*	*	*	*	450-0002-01A Os Camper Bed - Subaru Cross Track 2019
+451	0002-01A	Carabiner Assy	*	*	*	*	451-0002-01A Carabiner Assy
+451	0003-01A	C-Beam Gantry Plate Assy - Open Builds	*	*	*	*	451-0003-01A C-Beam Gantry Plate Assy - Open Builds
+451	0004-01A	Double Wide Gantry Assy - Open Builds	*	*	*	*	451-0004-01A Double Wide Gantry Assy - Open Builds
+451	0005-01A	Front Yard Planter	*	*	*	*	451-0005-01A Front Yard Planter
+451	0006-01A	Bed Assy - Os Camper Bed	*	*	*	*	451-0006-01A Bed Assy - Os Camper Bed
+451	0007-01A	Base - Softjaw CNC Assy	*	*	*	*	451-0007-01A Base - Softjaw CNC Assy
+451	0008-01A	Tektronix Power Button Assy	*	*	*	*	451-0008-01A Tektronix Power Button Assy
+451	0009-01A	Fixture Plate Assy - SoftJaw CNC	*	*	*	*	451-0009-01A Fixture Plate Assy - SoftJaw CNC
+452	0001-01A	*Available*	*	*	*	*	*AVAILABLE*
+452	0002-01A	 C-Beam Linear Actuator 500mm - Open Builds	*	*	*	*	452-0002-01A  C-Beam Linear Actuator 500mm - Open Builds
+452	0003-01A	 C-Beam Linear Actuator 1000mm - Open Builds	*	*	*	*	452-0003-01A  C-Beam Linear Actuator 1000mm - Open Builds
+452	0004-01A	C-Beam Linear Actuator 250mm - Open Builds	*	*	*	*	452-0004-01A C-Beam Linear Actuator 250mm - Open Builds
+452	0005-01A	*Available*	*	*	*	*	*Available*
+452	0006-01A	X Axis Assy - SoftJaw CNC	*	*	*	*	452-0006-01A X Axis Assy - SoftJaw CNC
+452	0007-01A	Y Axis Assy - SoftJaw CNC	*	*	*	*	452-0007-01A Y Axis Assy - SoftJaw CNC
+452	0008-01A	Z Axis Assy - SoftJaw CNC	*	*	*	*	452-0008-01A Z Axis Assy - SoftJaw CNC
+594	0001-01A	Auto Tool Zero Script	*	*	*	*	594-0001-01A Auto Tool Zero Script
+597	0002-01A	Size A Drawing Template - Softjaw design	*	*	*	*	597-0002-01A Size A Drawing Template - Softjaw design
+597	0001-01A	SoftJaw Logo	*	*	*	*	597-0001-01A SoftJaw Logo
+111	0022	Screw PH 10-32 X 0.5 Black Oxide	McMaster	91249A263	*	*	111-0022 Screw PH 10-32 X 0.5 Black Oxide
+111	0023	Screw SHCS M5 X 20mm Black Oxide	McMaster	91290A242	0.1491	100	111-0023 Screw SHCS M5 X 20mm Black Oxide
+111	0024	Screw SHCS .25-20 X 0.5 Black Oxide	*	*	*	*	111-0024 Screw SHCS .25-20 X 0.5 Black Oxide
+210	0012-01A	X Axis Cross Plate - SoftJaw CNC	*	*	*	*	210-0012-01A X Axis Cross Plate - SoftJaw CNC
+119	0006	1204 Ballscrew Nut Housing 	*	*	*	*	119-0006 1204 Ballscrew Nut Housing 
+119	0007	1000mm Ballscrew Assy - SFU1204 1000mm with BK10/BF10	*	*	*	*	119-0007 1000mm Ballscrew Assy - SFU1204 1000mm with BK10/BF10
+119	0008	250mm Ballscrew Assy - SFU1204 250mm with BK10/BF10	*	*	*	*	119-0008 250mm Ballscrew Assy - SFU1204 250mm with BK10/BF10
+115	0017	Hiwin Linear Rail 300 - HGH20CA	*	*	*	*	115-0017 Hiwin Linear Rail 300 - HGH20CA
+130	0001	"Chinese Spindle - 2.2KV, 220V, Water Cooled"	Ebay	*	1800	1	"130-0001 Chinese Spindle - 2.2KV, 220V, Water Cooled"
+130	0002	RATTM BT30 Spindle	Ebay	*	1800	1	130-0002 RATTM BT30 Spindle
+451	0010-01A	Jeopardy Task Wheel	*	*	*	*	451-0010-01A Jeopardy Task Wheel
+214	0020-01A	Black and Decker Blower Hanger	*	*	*	*	214-0020-01A Black and Decker Blower Hanger
+451	0011-01A	Lithography Alignment Jig Assy	*	*	*	*	451-0011-01A Lithography Alignment Jig Assy
+451	0012-01A	ATC Tool Rack	*	*	*	*	451-0012-01A ATC Tool Rack
+214	0021-01A	Base - Litho Alignment Jig	*	*	*	*	214-0021-01A Base - Litho Alignment Jig
+214	0021-02A	Top Plate - Litho Alignment Jig	*	*	*	*	214-0021-02A Top Plate - Litho Alignment Jig
+114	0001	Dowel .125 x .5 	McMaster	98381A471	11.04	100	114-0001 Dowel .125 x .5 
+119	0009	Nema 23 Motor	*	*	*	*	119-0009 Nema 23 Motor
+119	0010	"Shaft Coupler, Spider, 8mm to6.35mm"	Amazon	B07VYNVH46	8	2	"119-0010 Shaft Coupler, Spider, 8mm to 6.35mm"
+210	0013-01A	Nema 23 Motor Standoff - Softjaw CNC Assy	*	*	*	*	210-0013-01A Nema 23 Motor Standoff - Softjaw CNC Assy
+140	0003	BT30 Holder	*	*	*	*	140-0003 BT30 Holder
+140	0004	BT30 ATC Clip	*	*	*	*	140-0004 BT30 ATC Clip
+210	0014-01A	Top Plate - ATC Tool Rack	*	*	*	*	210-0014-01A Top Plate - ATC Tool Rack
+210	0015-01A	Side Plate - ATC Tool Rack	*	*	*	*	210-0015-01A Side Plate - ATC Tool Rack
+210	0016-01A	Bottom Plate - ATC Tool Rack	*	*	*	*	210-0016-01A Bottom Plate - ATC Tool Rack
+214	0022-01A	"Vase, Fluid - From Printables"	*	*	*	*	"214-0022-01A Vase, Fluid - From Printables"
+214	0023-01A	"Vase, twisted - From Printables"	*	*	*	*	"214-0023-01A Vase, twisted - From Printables"
+454	0001-01A	HuckleBoard - 28Pins Tutorial	*	*	*	*	454-0001-01A HuckleBoard - 28Pins Tutorial
+214	0024-01A	"Broom Handle Adapter, FR to US - .5BSPP to .75-5 ACME"	*	*	*	*	"214-0024-01A Broom Handle Adapter, FR to US - .5BSPP to .75-5 ACME"
+214	0025-01A	Monstera Coaster	*	*	*	*	214-0025-01A Monstera Coaster
+214	0026-01A	ER 20 Collet Holder	*	*	*	*	214-0026-01A ER 20 Collet Holder
+214	0027-01A	ER 40 Collet Holder	*	*	*	*	214-0027-01A ER 40 Collet Holder
+214	0028-01A	Collet Holder Mounting Plate	*	*	*	*	214-0028-01A Collet Holder Mounting Plate
+310	0001-01A	"Schematic, Softjaw CNC"	*	*	*	*	"310-0001-01A Schematic, Softjaw CNC"
+214	0029-01A	Pneumatic Box Input Plate - SoftJaw CNC	*	*	*	*	214-0029-01A Pneumatic Box Input Plate - SoftJaw CNC
+452	0009-01A	Pneumatic Box Assy - SoftJaw CNC	*	*	*	*	452-0009-01A Pneumatic Box Assy - SoftJaw CNC
+115	0018	"Enclosure 12x10x5, Aluminium "	HoffMan	Aluminium 	525	*	"115-0018 Enclosure 12x10x5, Aluminium "
+214	0030-01A	Air Solenoid Valve Bracket	*	*	*	*	214-0030-01A Air Solenoid Valve Bracket
+139	0006	Masso G3	*	*	*	*	139-0006 Masso G3
+214	0031-01A	Recessed Screw Plate - Rake Clothes Hanger	*	*	*	*	214-0031-01A Recessed Screw Plate - Rake Clothes Hanger
+119	0011	Masso 3NM Servo Motor - NEMA 23	*	*	*	*	119-0011 Masso 3NM Servo Motor - NEMA 23
+119	0012	" Ø8mmx7.5 D Shaft Pulley - 16mm wide, 3mm pitch"	*	*	*	*	"119-0012 Ø8mmx7.5 D Shaft Pulley - 16mm wide, 3mm pitch"
+119	0014	Masso Limit Switch	*	*	*	*	119-0014 Masso Limit Switch
+119	0013	 Ø8mm Shaft Pulley Idler	*	*	*	*	119-0013 Ø8mm Shaft Pulley Idler
+119	0015	1200mm 1605 LeadScrew Assy 	*	*	*	*	119-0015 1200mm 1605 LeadScrew Assy 
+119	0016	500mm 1605 LeadScrew Assy 	*	*	*	*	119-0016 500mm 1605 LeadScrew Assy 
+595	0001-01A	Wiring Diagram - SoftJaw CNC Rev E	*	*	*	*	595-0001-01A Wiring Diagram - SoftJaw CNC Rev E
+451	0013-01A	Picture Frame 3x5	*	*	*	*	451-0013-01A Picture Frame 3x5
+214	0032-01A	Electronics Enclosure - NAND Gate Light Strip Assy	*	*	*	*	214-0032-01A Electronics Enclosure - NAND Gate Light Strip Assy
+452	0010-01A	NAND Gate Light Assy	*	*	*	*	452-0010-01A NAND Gate Light Assy
+115	0019	Brass Insert 4-40 Short	*	*	*	*	115-0019 Brass Insert 4-40 Short
+214	0033-01A	Tweezer Holder	*	*	*	*	214-0033-01A Tweezer Holder
+454	0002-01A	RGB Lights	*	*	*	*	454-0002-01A RGB Lights
+139	0007	VeroBoard 40x60	*	*	*	*	139-0007 VeroBoard 40x60
+139	0008	VeroBoard 50x70	*	*	*	*	139-0008 VeroBoard 50x70
+214	0034-01A	Go Pro Clamp Sleeve	*	*	*	*	214-0034-01A Go Pro Clamp Sleeve
+139	0009	"Power Supply, 24V, 5 A, Din Rail  - Meanwell"	Amazon	B00UR98FSS	*	*	"139-0009 Power Supply, 24V, 5 A, Din Rail  - Meanwell"
+139	0010	"VFD, 5.5kW, Fuling DZB312  - Meanwell"	Amazon	Fuling	*	*	"139-0010 VFD, 5.5kW, Fuling DZB312  - Meanwell"
+139	0011	"Power Supply, 12V, 1.6A, DIN - Meanwell"	Amazon	B00DECZVY6	*	*	"139-0011 Power Supply, 12V, 1.6A, DIN - Meanwell"
+140	0005	"Webbed Slotted Angle Plate - 4-1/2"" x 3-1/2"" x 3"""	Amazon	B00N41G178	*	*	"140-0005 Webbed Slotted Angle Plate - 4-1/2"" x 3-1/2"" x 3"""
+214	0035-01A	"Plate, Spindle Power Plug - Softjaw CNC Electronics Enclosure"	*	*	*	*	"214-0035-01A Plate, Spindle Power Plug - Softjaw CNC Electronics Enclosure"
+119	0017	"Brake, Spring Applied, NEMA23 24V - PN MPC023-24-CRI"	Automation4Less	MPC023-24-CRI	197	1	"119-0017 Brake, Spring Applied, NEMA23 24V - PN MPC023-24-CRI"
+119	0018	"500mm Ballscrew Assy - SFU1605 with BK12, BF12"	Amazon	*	*	*	"119-0018 500mm Ballscrew Assy - SFU1605 with BK12, BF12"
+119	0019	Shaft Adapter 8mmx10mm	Amazon	*	*	*	119-0019 Shaft Adapter 8mmx10mm
+214	0036-01A	"USB, SD Card Holder"	*	*	*	*	"214-0036-01A USB, SD Card Holder"
+214	0037-01A	Masso Relay Mounting Board - Softjaw CNC	*	*	*	*	214-0037-01A Masso Relay Mounting Board - Softjaw CNC
+214	0038-01A	DIN Terminal Spacer	*	*	*	*	214-0038-01A DIN Terminal Spacer
+214	0039-01A	E-Stop Plate - Softjaw CNC Assy	*	*	*	*	214-0039-01A E-Stop Plate - Softjaw CNC Assy
+219	0004-01A	Be Someone Yard Sign	*	*	*	*	219-0004-01A Be Someone Yard Sign
+214	0040-01A	Monstera Coaster Holder	*	*	*	*	214-0040-01A Monstera Coaster Holder
+450	0003-01A	Monstera Coaster 6 Pack Assy	*	*	*	*	450-0003-01A Monstera Coaster 6 Pack Assy
+214	0041-01A	ER32 Collet Holder	*	*	*	*	214-0041-01A ER32 Collet Holder
+214	0042-01A	Optical Center Punch Holder	*	*	*	*	214-0042-01A Optical Center Punch Holder
+141	0001	ISo30 Toolholder	*	*	*	*	141-0001 ISo30 Toolholder
+214	0043-01A	ISO30 Tool holder Case	*	*	*	*	214-0043-01A ISO30 Tool holder Case
+214	0044-01A	Table Saw Knob - Grizzly	*	*	*	*	214-0044-01A Table Saw Knob - Grizzly
+210	0017-01A	Metal Stock Rack	*	*	*	*	210-0017-01A Metal Stock Rack
+450	0004-01A	Metal Stock Rack Assy	*	*	*	*	450-0004-01A Metal Stock Rack Assy
+215	0002-01A	Incra CleanSweep BenchDog Adapter Plate	*	*	*	*	215-0002-01A Incra CleanSweep BenchDog Adapter Plate
+210	0018-01A	Edison Phonograph Gear	*	*	*	*	210-0018-01A Edison Phonograph Gear
+							
